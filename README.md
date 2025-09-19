@@ -1,4 +1,4 @@
-# TRAP-Supplementary
+# TRAP Phylogenetic Analysis: Supplementary Materials
 
 This repository contains supplementary datasets and files supporting the MSc dissertation:  
 **"Large-Scale Phylogenetic and Structural Analysis of TRAP Proteins: Evolutionary Insights and Bioengineering Potential"**  
